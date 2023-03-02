@@ -1,0 +1,20 @@
+C:\Users\ShapePS\Desktop\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\bin\Debug\ボタン受信.exe.config
+C:\Users\ShapePS\Desktop\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\bin\Debug\ボタン受信.exe
+C:\Users\ShapePS\Desktop\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\bin\Debug\ボタン受信.pdb
+C:\Users\ShapePS\Desktop\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\obj\Debug\ボタン受信.csprojAssemblyReference.cache
+C:\Users\ShapePS\Desktop\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\obj\Debug\ボタン受信.Form1.resources
+C:\Users\ShapePS\Desktop\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\obj\Debug\ボタン受信.Properties.Resources.resources
+C:\Users\ShapePS\Desktop\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\obj\Debug\ボタン受信.csproj.GenerateResource.cache
+C:\Users\ShapePS\Desktop\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\obj\Debug\ボタン受信.csproj.CoreCompileInputs.cache
+C:\Users\ShapePS\Desktop\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\obj\Debug\ボタン受信.exe
+C:\Users\ShapePS\Desktop\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\obj\Debug\ボタン受信.pdb
+C:\Users\ShapePS\OneDrive - 富山県立大学\デスクトップ\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\bin\Debug\ボタン受信.exe.config
+C:\Users\ShapePS\OneDrive - 富山県立大学\デスクトップ\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\bin\Debug\ボタン受信.exe
+C:\Users\ShapePS\OneDrive - 富山県立大学\デスクトップ\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\bin\Debug\ボタン受信.pdb
+C:\Users\ShapePS\OneDrive - 富山県立大学\デスクトップ\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\obj\Debug\ボタン受信.csprojAssemblyReference.cache
+C:\Users\ShapePS\OneDrive - 富山県立大学\デスクトップ\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\obj\Debug\ボタン受信.Form1.resources
+C:\Users\ShapePS\OneDrive - 富山県立大学\デスクトップ\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\obj\Debug\ボタン受信.Properties.Resources.resources
+C:\Users\ShapePS\OneDrive - 富山県立大学\デスクトップ\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\obj\Debug\ボタン受信.csproj.GenerateResource.cache
+C:\Users\ShapePS\OneDrive - 富山県立大学\デスクトップ\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\obj\Debug\ボタン受信.csproj.CoreCompileInputs.cache
+C:\Users\ShapePS\OneDrive - 富山県立大学\デスクトップ\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\obj\Debug\ボタン受信.exe
+C:\Users\ShapePS\OneDrive - 富山県立大学\デスクトップ\移行データ-20220626T080331Z-001\移行データ\2021岩渕\ma-ka\マーカ改良2\ボタン受信\obj\Debug\ボタン受信.pdb
